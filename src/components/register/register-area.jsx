@@ -16,7 +16,7 @@ import shape_5 from "../../../public/assets/img/login/login-4.png";
 
 const register_content = {
    bg_img: "/assets/img/login/login-bg-shape.png",
-   banner_title: <>Welcome To <br /> Your  Cyber Secure.</>, 
+   banner_title: <>Welcome To <br /> Your  Data Tracker.</>, 
 }
 const {bg_img, banner_title, }  = register_content
 

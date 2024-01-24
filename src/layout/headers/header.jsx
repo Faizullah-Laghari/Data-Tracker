@@ -73,7 +73,7 @@ const Header = () => {
                               <Link href="/"><Image  src={logo} alt="" /></Link>
                            </div>
                         </div>
-                        <div className="col-xxl-6 col-xl-5 col-lg-5 d-none d-lg-block">
+                        <div className="col-xxl-6 col-xl-5 text-center col-lg-5 d-none d-lg-block">
                            <div className="header-bottom__main-menu">
                               <nav id="mobile-menu">
                               <NavMenu /> 

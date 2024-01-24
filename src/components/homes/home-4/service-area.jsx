@@ -9,7 +9,7 @@ import img from "../../../../public/assets/img/service/service-shape-right.png";
 const service_content = {
     sub_title: "WHAT WE DO",
     title: "Our Services",
-    description: <>Cyber Secure provides all customer management <br /> service within one software.</>,
+    description: <>Data Tracker provides all customer management <br /> service within one software.</>,
 }
 const {sub_title, title, description}  = service_content
 

@@ -15,8 +15,8 @@ const About = () => {
   return (
     <>
       <HeaderSix />
-      <Breadcrumb title_top="About"  title_bottom="Cyber Secure" />
-      <HeroBanner title="About" subtitle="Cyber Secure" bg_img="/assets/img/breadcrumb/breadcrumb-2.jpg" />
+      <Breadcrumb title_top="About"  title_bottom="Data Tracker" />
+      <HeroBanner title="About" subtitle="Data Tracker" bg_img="/assets/img/breadcrumb/breadcrumb-2.jpg" />
       <Brand />
       <CompanyArea />
       <AboutArea />

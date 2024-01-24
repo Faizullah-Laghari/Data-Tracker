@@ -43,7 +43,7 @@ const HeaderSeven = () => {
                             <Link href="/"><Image src={logo_white} alt="" /></Link>  
                             </div>
                         </div>
-                        <div className="col-xxl-7 col-xl-7 col-lg-7 d-none d-lg-block">
+                        <div className="col-xxl-7 col-xl-7 col-lg-7 text-center d-none d-lg-block">
                             <div className="header-bottom__main-menu header-bottom__main-menu-4 header-bottom__main-menu-inner">
                                 <nav id="mobile-menu-2">
                                     <NavMenu /> 

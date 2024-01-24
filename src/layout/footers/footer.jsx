@@ -21,7 +21,7 @@ const footer_content  = {
     contact_mail: "contact@info.com",
     location: "1234 North Avenue Luke Lane, South Bend,",
 
-    copy_right: <>Designed By Logicsaint – {new Date().getFullYear()}</>,
+    copy_right: <>Designed By Mekko Digital – {new Date().getFullYear()}</>,
 
     footer_lisks : [
         {

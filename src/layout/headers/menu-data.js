@@ -18,8 +18,8 @@ const menu_data = [
     id: 2,
     mega_menu: false,
     has_dropdown: false,
-    title: "About",
-    link: "/about",
+    title: "Career",
+    link: "/career",
     active: "",
     sub_menus: [
       { link: "/about", title: "About" },
